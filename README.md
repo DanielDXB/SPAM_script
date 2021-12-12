@@ -6,4 +6,4 @@
 
 3 - insert how fast do you like to spam (1000 = one message / second)
 
-4 - inser how many seconds you need to get to your victim chat (1 = 1 sec.)
+4 - insert how many seconds you need to get to your victim chat (1 = 1 sec.)
